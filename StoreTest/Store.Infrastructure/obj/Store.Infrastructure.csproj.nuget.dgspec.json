@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Infrastructure\\Store.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj",
+        "projectName": "Store.Domain",
+        "projectPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Infrastructure\\Store.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Infrastructure\\Store.Infrastructure.csproj",
+        "projectName": "Store.Infrastructure",
+        "projectPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Infrastructure\\Store.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj": {
+                "projectPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
