@@ -9,3 +9,15 @@ C:\Users\hecto\Desktop\.NET\StoreTest\Store.Domain\obj\Debug\net8.0\Store.Domain
 C:\Users\hecto\Desktop\.NET\StoreTest\Store.Domain\obj\Debug\net8.0\refint\Store.Domain.dll
 C:\Users\hecto\Desktop\.NET\StoreTest\Store.Domain\obj\Debug\net8.0\Store.Domain.pdb
 C:\Users\hecto\Desktop\.NET\StoreTest\Store.Domain\obj\Debug\net8.0\ref\Store.Domain.dll
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\bin\Debug\net8.0\Store.Domain.deps.json
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\bin\Debug\net8.0\Store.Domain.dll
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\bin\Debug\net8.0\Store.Domain.pdb
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.AssemblyInfoInputs.cache
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.AssemblyInfo.cs
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.sourcelink.json
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.dll
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\refint\Store.Domain.dll
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\Store.Domain.pdb
+C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\obj\Debug\net8.0\ref\Store.Domain.dll

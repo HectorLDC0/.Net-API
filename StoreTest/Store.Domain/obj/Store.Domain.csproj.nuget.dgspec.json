@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj": {}
+    "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj": {
+    "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\Store.Domain.csproj",
+        "projectPath": "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Domain\\Store.Domain.csproj",
         "packagesPath": "C:\\Users\\hecto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Domain\\obj\\",
+        "outputPath": "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hecto\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.121/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

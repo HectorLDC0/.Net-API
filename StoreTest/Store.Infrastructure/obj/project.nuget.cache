@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5xZS7lhIbFMxAjds0UfhAu1b7hbwT7SV2AJpEx4+AsfTLY6/RPaislqs5edUqQuF68LXisbFAO1EOUsOJpwItA==",
+  "dgSpecHash": "4gJODiu0rkQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Infrastructure\\Store.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Infrastructure\\Store.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.10\\microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
     "C:\\Users\\hecto\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.10\\microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512",

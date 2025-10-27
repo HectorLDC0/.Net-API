@@ -275,12 +275,18 @@
           "Store.Infrastructure": "1.0.0"
         },
         "runtime": {
-          "Store.Application.dll": {}
+          "Store.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Store.Domain/1.0.0": {
         "runtime": {
-          "Store.Domain.dll": {}
+          "Store.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Store.Infrastructure/1.0.0": {
@@ -289,7 +295,10 @@
           "Store.Domain": "1.0.0"
         },
         "runtime": {
-          "Store.Infrastructure.dll": {}
+          "Store.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

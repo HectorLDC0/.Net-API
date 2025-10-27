@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u5Z9sI3o4unt4vLQVahVRFIYgJ2FxhuQ/72FaOB1Md5AG0noUrFMm2oIuwEQ92vC1sJDUrsXmj/b9kZeM7VP+w==",
+  "dgSpecHash": "zG0AdHZZZps=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hecto\\Desktop\\.NET\\StoreTest\\Store.Api\\Store.Api.csproj",
+  "projectFilePath": "C:\\Users\\hecto\\.NET\\.net-api\\storetest\\Store.Api\\Store.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hecto\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hecto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

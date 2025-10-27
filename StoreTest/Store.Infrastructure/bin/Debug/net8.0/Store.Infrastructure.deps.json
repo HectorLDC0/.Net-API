@@ -151,7 +151,10 @@
       },
       "Store.Domain/1.0.0": {
         "runtime": {
-          "Store.Domain.dll": {}
+          "Store.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

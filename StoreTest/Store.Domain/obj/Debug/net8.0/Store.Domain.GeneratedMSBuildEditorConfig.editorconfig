@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Store.Domain
-build_property.ProjectDir = C:\Users\hecto\Desktop\.NET\StoreTest\Store.Domain\
+build_property.ProjectDir = C:\Users\hecto\.NET\.net-api\storetest\Store.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
